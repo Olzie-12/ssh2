@@ -1,12 +1,12 @@
 { "name": "@olzie-12/ssh2",
-  "version": "0.8.49",
+  "version": "0.8.50",
   "author": "Brian White <mscdex@mscdex.net>",
   "description": "SSH2 client and server modules written in pure JavaScript for node.js",
   "main": "./lib/client",
   "engines": { "node": ">=5.2.0" },
   "dependencies": {
     "@types/node": "^18.11.18",
-    "@olzie-12/ssh2-streams": "~0.4.30"
+    "@olzie-12/ssh2-streams": "~0.4.31"
   },
   "scripts": {
     "test": "node test/test.js"
